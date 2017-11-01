@@ -2,4 +2,4 @@
 
 Simple js calculator
 
-![go](https://honux77.github.io/js-calculator/)
+[go](https://honux77.github.io/js-calculator/)
